@@ -1,6 +1,6 @@
 DISCLAIMER: THIS WAS MADE WITH AI( FREE TIER GEMINI)
 
-# Kokoro-FastAPI-WINDWOS-AMD-Portable
+# Kokoro-FastAPI-WINDOWS-AMD-Portable
 
 # Kokoro-FastAPI — Portable Windows Build (AMD Radeon RX 9070 XT / RDNA 4)
 
